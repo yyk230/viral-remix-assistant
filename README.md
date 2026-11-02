@@ -56,7 +56,7 @@ lib/
   exportMarkdown.ts        导出 Markdown
 tests/                     单元测试
 docs/产品说明文档.md        笔试答卷
-docs/AI使用记录.md          与 AI 的对话摘录（提交材料第 3 项）
+docs/AI使用记录.md          使用的 AI 工具及其在本次作业中的作用（提交材料第 3 项）
 docs/images/               文档截图
 ```
 
